@@ -1,2 +1,2 @@
-# ludic-pictures-site
+# Ludic Pictures
 Official site for Ludic Pictures
